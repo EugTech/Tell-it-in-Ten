@@ -1,19 +1,21 @@
 # Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via the issue.
-PRs witout issues wil be rejected.
+## Know your roles
+This project has a few different types of contributors.  They fall into a few roles and some folks have multiple roles.
 
+- Open Leader: Folks who have volunteered to provide structure to the project following Mozilla Open Leaders guidance.  You can think of them as product owners.  They hold the mission and the vision for the project, create issues and maintain the milestones and backlog.
+- Contributors:  Folks who pick up issues and work on them.  They make forks and submit pull requests.  These can be designers, developers, writers, etc.
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+## All about the Issues
+When contributing to this repository, please first discuss the change you wish to make via the issue comments.
+PRs without issues will likely be rejected.
+
+Please note we have a (code of conduct)[code-of-conduct.md], please follow it in all your interactions with the project.
 
 ## Pull Request Process
 
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
-   build.
-2. Update the README.md with details of changes to the interface, this includes new environment 
-   variables, exposed ports, useful file locations and container parameters.
-3. Increase the version numbers in any examples files and the README.md to the new version that this
-   Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
-   do not have permission to do that, you may request the second reviewer to merge it for you.
+1. Ensure any install or build dependencies are removed before committing and pushing your pull request.
+2. Mark the pull request as Fixes #[issue number] to link you PR to the issue.
+3. Get the attention of another contributor or leader to review your PR.
+4. PR will get merged and the issue willbe closed.
 
